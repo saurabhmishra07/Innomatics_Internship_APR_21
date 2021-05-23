@@ -1,0 +1,6 @@
+a=int(input("Enter the number"))
+b=int(input("enter the number"))
+c=int(input("enter the number"))
+d=int(input("enter the number"))
+e=pow(a,b)+pow(c,d)
+print(e)
